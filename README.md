@@ -1,2 +1,2 @@
 # CVPropio
-Curriculum Vitae Guadalupe Montero
+## Lenguajes utilizados: HTML y CSS
