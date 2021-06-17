@@ -15,7 +15,7 @@ li {
 
 header{
   text-align: center;
-  background-image: url('../img/img-header.jpg');
+  background-image: url('../img/header.jpg');
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
@@ -31,40 +31,40 @@ header{
 
 .header-h1 {
   padding:10px;
-  background-color: rgba(0, 0, 0, 0.5);
-  color: rgb(255, 255, 255);
-  font-family: 'Lato', sans-serif;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #787B80;
+  font-family: 'Lato Light', sans-serif;
+  letter-spacing: 5px;
 }
 
 .header-nav {
   text-align: center;
   padding: 10px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .header-nav a{
-  color: white;
+  color: #59607D;
   font-family: 'Lato', sans-serif;
   font-size: 25px;
-  letter-spacing: 20px;
+  letter-spacing: 25px;
 }
 
 main {
   padding: 50px;
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.5);
   font-family: 'Lato', sans-serif;
 }
 
 .div-h2 {
   padding-left: 20px;
-  background-color: rgba(0, 0, 0, 0.9);
+
 }
 
 .section-h2 {
   color: #005677;
   letter-spacing: 10px;
   font-family: 'Lato', sans-serif;
-  color: white;
 }
 
 .div-listas {
@@ -74,6 +74,7 @@ main {
 
 .div-listas dl, dt, dd {
   padding: 10px 10px;
+  color: rgba(0, 0, 0, 0.9);
 }
 
 .div-contenido p  {
@@ -88,7 +89,7 @@ footer {
   font-size: 20px;
   padding: 5px;
   text-align: center;
-  background-color: #000;
+  background-color: #59607D;
   color: white;
   font-family: 'Lato', sans-serif;
 }
