@@ -13,6 +13,7 @@ li {
   list-style: none;
 }
 
+/*HEADER*/
 header{
   text-align: center;
   background-image: url('../img/header.jpg');
@@ -52,6 +53,7 @@ header{
   letter-spacing: 15px;
 }
 
+/*MAIN*/
 main {
   padding: 50px;
   background-color: rgba(255, 255, 255, 0.5);
@@ -89,6 +91,7 @@ main {
   font-family: 'Lato', sans-serif;
 }
 
+/*FOOTER*/
 footer {
   font-size: 20px;
   padding: 5px;
