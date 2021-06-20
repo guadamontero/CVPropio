@@ -69,7 +69,7 @@ main {
 .section-h2 {
   color: #005677;
   letter-spacing: 5px;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 30px;
 }
 
@@ -88,7 +88,7 @@ main {
   font-size: 20px;
   line-height: 40px;
   text-align: justify;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 /*FOOTER*/
