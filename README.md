@@ -1,3 +1,3 @@
 # CVPropio
 ## Lenguajes utilizados: HTML y CSS
-https://guadamontero.github.io/CVPropio/
+https://guadamontero.github.io/HTML-CSS-CvPropio/
